@@ -37,7 +37,7 @@
 
 - **Automation Excellence Award** @ Cognizant (2023)  
 - **Top 10%** in Kaggle Credit Card Fraud Detection Challenge  
-- **3x Certified**: AWS Cloud Practitioner, IBM Data Analyst, TensorFlow Developer  
+- **Certified**: AWS Cloud Practitioner, IBM Data Analyst
 
 ---
 
