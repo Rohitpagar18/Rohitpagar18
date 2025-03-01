@@ -34,5 +34,4 @@
 - 📜 **Certifications**:  
   - <img src="https://img.icons8.com/color/48/000000/ibm.png" width="16"/> [Data Analysis with Python - IBM Skill Network (Coursera)](https://www.credly.com/badges/cc6f9ba1-3e7d-4007-b94a-c4d66f27c3f8/public_url) *- Issued Nov 2022*  
   - 📊 [Data Analysis with Python - Jovian](https://jovian.ai/certificate/MFQTKNZRGM#dataanalysis) *- Zero to Pandas Certification*
-  - 🎓 [Coursera (Data Analysis with Python)](https://www.coursera.org/verify/3YVW4T57UTJX)  
   - ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)ChatGPT Prompt Engineering for Developers By Isa Fulford, Andrew Ng
