@@ -21,10 +21,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rohitpagar18&theme=dark)](https://git.io/streak-stats)  
 [![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitpagar18&show_icons=true&theme=vision-friendly-dark)](https://github.com/Rohitpagar18)  
 
-📌 **Pinned Repos** (Add your best projects here!)  
+📌 **Pinned Repos**  
 [![Credit Card Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=Rohitpagar18&repo=Credit-Card-Fraud-Detection&theme=radical)](https://github.com/Rohitpagar18/Credit-Card-Fraud-Detection)  
-[![Real-Time Stock Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Rohitpagar18&repo=Stock-Market-Kafka-AWS&theme=radical)](https://github.com/Rohitpagar18/Stock-Market-Kafka-AWS)  
-
+[![RAG Document Intelligence System](https://github-readme-stats.vercel.app/api/pin/?username=Rohitpagar18&repo=pdf-qa-rag-system&theme=nightowl)](https://github.com/Rohitpagar18/pdf-qa-rag-system)  
 ---
 
 ## 📫 **Let's Connect!**
