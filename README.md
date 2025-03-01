@@ -39,8 +39,10 @@
 
 ## 🏆 **Achievements**
 
-- **Automation Excellence Award** @ Cognizant (2023)  
-- **Certified**: AWS Cloud Practitioner, IBM Data Analyst
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)
----
+- 🏅 **[Automation Excellence Award]** @ Cognizant (2023)  
+- 📜 **Certifications**:  
+  - <img src="https://img.shields.io/badge/IBM-052FAD?logo=ibm&logoColor=white" width="70"/> [Data Analysis with Python - IBM Skill Network](https://www.coursera.org/account/accomplishments/verify/3YVW4T57UTJX) *- Issued Nov 2022*  
+  - <img src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white" width="80"/> [ChatGPT Prompt Engineering for Developers](https://www.coursera.org/learn/chatgpt-prompt-engineering) *- DeepLearning.AI (Andrew Ng/Isa Fulford)*  
+  - 📊 [Data Analysis with Python - Jovian](https://jovian.ai/certificate/MFQTKNZRGM#dataanalysis) *- Zero to Pandas Certification*  
+  - <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" width="55"/> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cc6f9ba1-3e7d-4007-b94a-c4d66f27c3f8/public_url)  
 
