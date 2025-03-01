@@ -5,7 +5,14 @@
 *Turning data into actionable insights and code into scalable solutions.* 🚀  
 
 ---
+## 🛠️ **Technical Toolkit**
 
+- **Languages**: <img src="https://img.icons8.com/color/48/000000/python.png" width="18"/> Python | <img src="https://img.icons8.com/plasticine/48/000000/sql.png" width="18"/> SQL  
+- **ML & AI**: 🤖 RAG | <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="18"/> Scikit-learn | ⛓️ LangChain | 🦙 Ollama | 🎨 ChromaDB  
+- **Cloud & DevOps**: <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="18"/> AWS | <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" width="18"/> Azure | 🐳 Docker | <img src="https://img.icons8.com/color/48/000000/git.png" width="18"/> Git  
+- **Data Engineering**: ⚡ Kafka | <img src="https://img.icons8.com/color/48/000000/aws-glue.png" width="18"/> AWS Glue/Athena | 🔥 Spark  
+- **Analytics**: 📈 Hypothesis Testing | 📊 Statistics
+---
 ## 🛠️ **Technical Toolkit**
 
 - **Languages**: Python 🐍, SQL 📊
