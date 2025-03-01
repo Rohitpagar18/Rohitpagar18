@@ -36,7 +36,6 @@
 ## 🏆 **Achievements**
 
 - **Automation Excellence Award** @ Cognizant (2023)  
-- **Top 10%** in Kaggle Credit Card Fraud Detection Challenge  
 - **Certified**: AWS Cloud Practitioner, IBM Data Analyst
 
 ---
