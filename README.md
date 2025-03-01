@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohit Avinash Pagar
+# 👋 Hi, I'm Rohit Pagar
 
 **Machine Learning Engineer | Python Automation Expert | Data Alchemist**  
 
