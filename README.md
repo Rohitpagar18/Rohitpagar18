@@ -32,8 +32,7 @@
 
 - 🏅 **[Automation Excellence Award]** @ Cognizant (2023)  
 - 📜 **Certifications**:  
-  - <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="16"/> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/cc6f9ba1-3e7d-4007-b94a-c4d66f27c3f8/public_url) *(Credential ID: CC6F9BA1-3E7D-4007-B94A-C4D66F27C3F8)*  
-  - <img src="https://img.icons8.com/color/48/000000/ibm.png" width="16"/> [IBM Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/3YVW4T57UTJX) *- Issued Nov 2022*  
+  - <img src="https://img.icons8.com/color/48/000000/ibm.png" width="16"/> [IBM Data Analysis with Python](https://www.credly.com/badges/cc6f9ba1-3e7d-4007-b94a-c4d66f27c3f8/public_url) *- Issued Nov 2022*  
   - 📊 [Data Analysis with Python - Jovian](https://jovian.ai/certificate/MFQTKNZRGM#dataanalysis) *- Zero to Pandas Certification*  
 
 
