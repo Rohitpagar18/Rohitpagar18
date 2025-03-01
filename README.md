@@ -10,17 +10,8 @@
 - **Languages**: 🐍 Python | 📊 SQL  
 - **ML & AI**: 🤖 RAG | ⚙️ Scikit-learn | ⛓️ LangChain | 🦙 Ollama | 🎨 ChromaDB  
 - **Cloud & DevOps**: ☁️ AWS | 🔷 Azure | 🐳 Docker | 🔄 Git/GitHub Actions  
-- **Data Engineering**: ⚡ Kafka | 🔧 AWS Glue/Athena | 🔥 Spark  
+- **Data Engineering**: ⚡ Kafka | 🔧 AWS Glue/Athena  
 - **Analytics**: 📈 Hypothesis Testing | 📊 Statistics  
----
-## 🛠️ **Technical Toolkit**
-
-- **Languages**: Python 🐍, SQL 📊
-- **ML & AI**: 🤖 RAG, Scikit-learn, ⛓️LangChain, 🦙Ollama, ChromaDB  
-- **Cloud & DevOps**: AWS, Azure, Docker 🐳, Git/GitHub Actions  
-- **Data Engineering**: ⚡Kafka, AWS Glue/Athena  
-- **Analytics**: 📈Hypothesis Testing, 📈Statistics  
-
 ---
 ## 🔥 **GitHub Highlights**
 
