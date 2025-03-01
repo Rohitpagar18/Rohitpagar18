@@ -21,7 +21,7 @@
 [![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitpagar18&show_icons=true&theme=vision-friendly-dark)](https://github.com/Rohitpagar18)  
 
 📌 **Pinned Repos**  
-[![Credit Card Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=Rohitpagar18&repo=Credit-Card-Fraud-Detection&theme=radical)](https://github.com/Rohitpagar18/Credit-Card-Fraud-Detection)  
+[![Credit Card Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=Rohitpagar18&repo=Credit-Card-Fraud-Detection&theme=tokyonight)](https://github.com/Rohitpagar18/Credit-Card-Fraud-Detection)  
 [![RAG Document Intelligence System](https://github-readme-stats.vercel.app/api/pin/?username=Rohitpagar18&repo=pdf-qa-rag-system&theme=nightowl)](https://github.com/Rohitpagar18/pdf-qa-rag-system)  
 ---
 
