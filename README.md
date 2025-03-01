@@ -8,11 +8,11 @@
 
 ## 🛠️ **Technical Toolkit**
 
-- **Languages**: Python 🐍, SQL 📊, JavaScript (Basics)  
-- **ML & AI**: RAG, Scikit-learn, TensorFlow, LangChain, Ollama, ChromaDB  
+- **Languages**: Python 🐍, SQL 📊
+- **ML & AI**: RAG, Scikit-learn, LangChain, Ollama, ChromaDB  
 - **Cloud & DevOps**: AWS, Azure, Docker 🐳, Git/GitHub Actions  
-- **Data Engineering**: Kafka, Airflow, AWS Glue/Athena, Spark  
-- **Analytics**: Hypothesis Testing, A/B Testing, Power BI  
+- **Data Engineering**: Kafka, AWS Glue/Athena, Spark  
+- **Analytics**: Hypothesis Testing, Statistics  
 
 ---
 
