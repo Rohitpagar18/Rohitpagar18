@@ -30,10 +30,6 @@
 ## 📫 **Let's Connect!**
 
 - 💼 [LinkedIn](https://linkedin.com/in/rohitpagar) – Professional journey  
-- 🌐 [Portfolio](https://rohitpagar.com) – Projects, blogs, and resume  
-- ✍️ [Medium](https://medium.com/@rohitpagar18) – Technical write-ups on ML/AI  
-- 🏆 [Kaggle](https://kaggle.com/rohitpagar) – Data science competitions  
-- 🐦 [Twitter](https://twitter.com/rohitpagar) – Tech & industry updates  
 
 ---
 
